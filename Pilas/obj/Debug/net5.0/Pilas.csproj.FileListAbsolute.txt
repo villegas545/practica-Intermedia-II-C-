@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.exe
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.deps.json
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.runtimeconfig.json
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.dll
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\bin\Debug\net5.0\Pilas.pdb
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.dll
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\refint\Pilas.dll
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.pdb
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\Pilas.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Intermedia II\Pilas\obj\Debug\net5.0\ref\Pilas.dll

@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.exe
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.deps.json
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.runtimeconfig.json
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.dll
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\bin\Debug\net5.0\valor_referencia.pdb
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.dll
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\refint\valor_referencia.dll
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.pdb
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\valor_referencia.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Intermedia II\valor_referencia\obj\Debug\net5.0\ref\valor_referencia.dll

@@ -1,0 +1,16 @@
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.exe
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.deps.json
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.runtimeconfig.json
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.runtimeconfig.dev.json
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.dll
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\bin\Debug\net5.0\Colas,Listas,Diccionarios.pdb
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.csproj.AssemblyReference.cache
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.AssemblyInfoInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.AssemblyInfo.cs
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.csproj.CoreCompileInputs.cache
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.dll
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\refint\Colas,Listas,Diccionarios.dll
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.pdb
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\Colas,Listas,Diccionarios.genruntimeconfig.cache
+C:\Users\Villegas\source\repos\Intermedia II\Colas,Listas,Diccionarios\obj\Debug\net5.0\ref\Colas,Listas,Diccionarios.dll
